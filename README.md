@@ -15,7 +15,7 @@ Save Reports: The app allows you to save your financial reports to a local file,
 The "Income and Expense Calculator" is your all-in-one financial companion, offering a seamless way to monitor your income, expenses, and savings. With its intuitive interface and language options, it ensures a smooth user experience for both English-speaking and Turkish-speaking users. Take control of your finances and start tracking today!
 
 
-TR: u uygulama, aylık gelirinizi ve harcamalarınızı yönetmek için tasarlanmış bir Android uygulamasıdır. İşte uygulamanın temel özellikleri:
+TR:  uygulama, aylık gelirinizi ve harcamalarınızı yönetmek için tasarlanmış bir Android uygulamasıdır. İşte uygulamanın temel özellikleri:
 
 Gelir Girişi: Aylık gelirinizi girerek başlayabilirsiniz. Bu, aylık gelirinizi hesaplarken temel bir veri sağlar.
 
